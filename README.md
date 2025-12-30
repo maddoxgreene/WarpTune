@@ -1,2 +1,182 @@
-# WarpTune
-High-Performance Network Optimizer
+🚀 WarpTune
+
+High-Performance Network Optimization Utility for Windows
+
+WarpTune is a lightweight Windows optimization tool designed to improve network responsiveness, reduce latency, and streamline adapter behavior for gaming, streaming, and general performance.
+
+It provides a clean menu-based interface that applies proven network tweaks safely and reversibly.
+
+🔹 Features Overview
+⚡ TCP Optimizations
+
+Applies performance-focused TCP parameters to improve responsiveness and reduce latency:
+
+Disables delayed acknowledgements
+
+Optimizes port usage
+
+Improves packet handling
+
+Enables Receive Side Scaling (RSS)
+
+🌐 NetSH Optimizations
+
+Tunes Windows networking stack behavior:
+
+Disables auto-tuning
+
+Optimizes retransmission timing
+
+Disables unnecessary protocols
+
+Improves routing performance
+
+🎯 QoS Optimization
+
+Adjusts Quality of Service behavior:
+
+Removes bandwidth reservation limits
+
+Enables priority packet scheduling
+
+Improves traffic handling for latency-sensitive apps
+
+🌍 DNS Optimization
+
+Automatically configures:
+
+Cloudflare DNS (1.1.1.1 / 1.0.0.1)
+
+Faster lookups
+
+Lower DNS latency
+
+Improved reliability
+
+🔧 Network Adapter Optimization
+
+Optimizes active adapters by:
+
+Disabling power saving features
+
+Disabling energy-efficient ethernet
+
+Disabling interrupt moderation
+
+Optimizing offload behavior
+
+Designed for:
+
+Gaming
+
+Streaming
+
+Low-latency workloads
+
+🧹 Network Debloat
+
+Removes unused or legacy networking components:
+
+Teredo
+
+ISATAP
+
+IPv6 6to4
+
+Unnecessary bindings
+
+Helps reduce background network overhead.
+
+🚀 Smart Packets (BITS Optimization)
+
+Enables and configures:
+
+Background Intelligent Transfer Service (BITS)
+
+Improves background traffic handling
+
+Helps with Windows networking efficiency
+
+🔄 Restart Network Adapter
+
+Safely restarts all active adapters to apply changes instantly.
+
+💾 Registry Backup
+
+Creates a full registry backup before changes:
+
+Saved automatically to Downloads folder
+
+Allows full restoration if needed
+
+🔥 Firewall Restore
+
+Re-enables:
+
+Windows Firewall
+
+Base Filtering Engine
+
+Firewall services
+
+Useful if firewall was disabled during optimization or testing.
+
+🧠 Why WarpTune?
+
+✔ Clean and simple
+✔ No bloat
+✔ No spyware
+✔ No background services
+✔ No telemetry
+✔ Fully reversible
+✔ Admin-only safety checks
+✔ Works on Windows 10 & 11
+
+⚠️ Requirements
+
+Windows 10 or 11
+
+Administrator privileges
+
+Run as Administrator
+
+File must be saved as ANSI (.bat)
+
+📌 Usage Instructions
+
+Download or copy WarpTune.bat
+
+Right-click → Run as Administrator
+
+Choose an option (1–10)
+
+Apply optimizations
+
+Restart if prompted
+
+🛠 Recommended Usage
+
+Run TCP + NetSH once
+
+Use DNS optimization if you want faster lookups
+
+Use Adapter Optimization for gaming
+
+Restart adapter after changes
+
+Backup registry before heavy tweaking
+
+🧩 Notes
+
+All changes are standard Windows settings
+
+No permanent system modifications
+
+No background services added
+
+Safe to use on laptops and desktops
+
+📜 Disclaimer
+
+WarpTune modifies Windows networking parameters.
+While safe and reversible, use at your own discretion.
