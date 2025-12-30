@@ -1,11 +1,9 @@
-🚀 WarpTune
+<p align="center">
+  <img src="logo.png" alt="WarpTune Logo" width="320">
+</p>
 
-High-Performance Network Optimization Utility for Windows
-
-WarpTune is a lightweight Windows optimization tool designed to improve network responsiveness, reduce latency, and streamline adapter behavior for gaming, streaming, and general performance.
-
-It provides a clean menu-based interface that applies proven network tweaks safely and reversibly.
-
+# 🚀 WarpTune  
+**Lightweight Network Optimization Utility for Windows**
 🔹 Features Overview
 ⚡ TCP Optimizations
 
@@ -141,42 +139,3 @@ Administrator privileges
 Run as Administrator
 
 File must be saved as ANSI (.bat)
-
-📌 Usage Instructions
-
-Download or copy WarpTune.bat
-
-Right-click → Run as Administrator
-
-Choose an option (1–10)
-
-Apply optimizations
-
-Restart if prompted
-
-🛠 Recommended Usage
-
-Run TCP + NetSH once
-
-Use DNS optimization if you want faster lookups
-
-Use Adapter Optimization for gaming
-
-Restart adapter after changes
-
-Backup registry before heavy tweaking
-
-🧩 Notes
-
-All changes are standard Windows settings
-
-No permanent system modifications
-
-No background services added
-
-Safe to use on laptops and desktops
-
-📜 Disclaimer
-
-WarpTune modifies Windows networking parameters.
-While safe and reversible, use at your own discretion.
