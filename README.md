@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="logo.png" alt="WarpTune Logo" width="320">
-</p>
-
 # 🚀 WarpTune  
 **Lightweight Network Optimization Utility for Windows**
 🔹 Features Overview
